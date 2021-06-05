@@ -1,26 +1,5 @@
----
-youtubeId: putYourIDHere
-vimeoId: putYourIDHere
-twitchId: putYourIDHere
-streamableId: putYourIDHere
-mixerId: putYourIDHere
-driveId: putYourIDHere
-detikId: putYourIDHere
-dailymotionId: putYourIDHere
-metubeId: putYourIDHere
-vidioId: putYourIDHere
-linetodayId: putYourIDHere
-countryId: putYourIDHere
----
-# Embed Youtube
 
-<!---
-Include this next line in your .md for Youtube videos, make sure to put your video ID up there!
 
-Example:     youtubeId: lDi9uFcD7XI
--->
-
-{% include youtubePlayer.html id=page.youtubeId %}
 
 ## Welcome to GitHub Pages
 
@@ -58,7 +37,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/owenwould/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-{% include vimeoPlayer.html id=page.youtubeId %}
+
 
 ### Support or Contact
 
