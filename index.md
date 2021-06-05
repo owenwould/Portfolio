@@ -13,11 +13,11 @@ linetodayId: putYourIDHere
 countryId: putYourIDHere
 ---
 
-#About Me
+# About Me
 
 
 
-#Games Development BSc University of Sunderland 
+# Games Development BSc University of Sunderland 
 ## Dissertation Project
 Gamification 
 
@@ -31,7 +31,7 @@ Gamification
 
 
 
-#Robotics & Autonomous University of Lincoln
+# Robotics & Autonomous University of Lincoln
 
 ## 
 <!---
