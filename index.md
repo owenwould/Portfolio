@@ -1,44 +1,33 @@
 ---
 youtubeId: 06n_RmOQe-A
-vimeoId: putYourIDHere
-twitchId: putYourIDHere
-streamableId: putYourIDHere
-mixerId: putYourIDHere
-driveId: putYourIDHere
-detikId: putYourIDHere
-dailymotionId: putYourIDHere
-metubeId: putYourIDHere
-vidioId: putYourIDHere
-linetodayId: putYourIDHere
-countryId: putYourIDHere
+year1Game: 
+
 ---
 
 # About Me
 
 
 
-# Games Development BSc University of Sunderland 
+# Games Development BSc
 ## Dissertation Project
-Gamification 
+Title: Incentivise Recycling through the application of Gamification
+Android App made using Andriod Studio with Java, Firestore, Firebase Authentication 
+
 
 
 ## Year 1 
-
+Space Invaders style game, using Unity with C#
 
 ## Year 2
+
 
 ## Year 3
 
 
 
-# Robotics & Autonomous University of Lincoln
+# Robotics & Autonomous MSc Lincoln 
 
-## 
-<!---
-Include this next line in your .md for Youtube videos, make sure to put your video ID up there!
-
-Example:     youtubeId: lDi9uFcD7XI
--->
+## R
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
