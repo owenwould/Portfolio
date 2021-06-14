@@ -13,12 +13,13 @@ lincolnRobotProgramming: irF1NyXPKCY
 
 ## Dissertation Project 
 Title: One-Class Classification for Anomaly Detection in Strawberries using Adversarially sythesised data
-- Motivation:
-- 
+Motivation:
+
 - Supervised learning approaches require large annoated datasets for classifying images 
 - Anomalies are rare and datasets may not be available, expensive and timely to collect 
 - Supervised learning is not true anomality detection, it can only detect instances of abnormality
-- Proposition:
+Proposition:
+
 - One-Class Classification is a technique to overcome some of these issues,
 - in One-class, the models are trained only using normal data (i.e. not anomalous)
 
@@ -53,7 +54,7 @@ Software Enterprise Project - created a virtual experience of Tombola's new buil
 Tombola was the client, our team won the best group for that client where I was the team leader and created the building in 
 Unity 
 
-{% include youtubePlayer.html id=page.year2Gamesjam %}
+{% include youtubePlayer.html id=page.year2Enterprise %}
 
 ## Year 3
 Portfolio Game
