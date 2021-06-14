@@ -1,5 +1,5 @@
 ---
-youtubeId: 06n_RmOQe-A
+year3Porfolio: 0Or6MRug8wI
 year1Game: G-z3OboxKjQ
 year2Gamesjam: jU5QEtQjWhs
 year2Enterprise: JwQP2Nvo4r4
@@ -9,32 +9,45 @@ lincolnRobotProgramming: irF1NyXPKCY
 # About Me
 
 
-# Robotics & Autonomous MSc Lincoln (ongoing)
+# Robotics & Autonomous MSc Lincoln
+
 
 ## Dissertation Project 
-Title: One-Class Classification for Anomaly Detection in Strawberries using Adversarially sythesised data
+Title: One-Class Classification for Anomaly Detection in Strawberries using Adversarially sythesised data <br/>
 Motivation:
 
 - Supervised learning approaches require large annoated datasets for classifying images 
 - Anomalies are rare and datasets may not be available, expensive and timely to collect 
 - Supervised learning is not true anomality detection, it can only detect instances of abnormality
+- 
+-  
+<br/>
 Proposition:
 
 - One-Class Classification is a technique to overcome some of these issues,
-- in One-class, the models are trained only using normal data (i.e. not anomalous)
+- in One-class (OC), the models are trained only using normal data (i.e. not anomalous)
+- Doesnt require any anomalous data, OC can be used to learn normality (learn a latent representation) 
+- When anomalous data is presented to a system using OC it is able to discern it from normality 
+- Another approach to learn normality  is to use Generative Adversarial Networks (where the generator is an autoencoder) 
+- 
 
-
-
-Autonomous Robotic harvestor, simulated in Gazeboo, created using Linux Unbuntu, ROS, python, Yolov3 (Object detection)
+Autonomous Robotic harvestor, simulated in Gazeboo, created using Linux Unbuntu, ROS, Python, Yolov3 (Object detection)
 {% include youtubePlayer.html id=page.lincolnRobotProgramming %}
 
 Advanced Machine Learning 
+- Tensorflow, Keras, Google Colab
+- Image preparation (resizing, renaming and assigning data to data splits (Split 1 2 3 with train, test val)) 
+- Transfer Learning for Image Classification 
+- Image Annotation for Object Detection (YOLO)
+- CNN Models for image classification of weeds in agriculture
 
 Computer Vision 
+- MATLAB
+- Image Segmentation using 
 
-
-Advanced Robotics - Multi-Agent Systems 
+Advanced Robotics 
 - Netlogo Simulation of heterog
+- Paper review of 12 different papers related to Grasping within the context of robotic fuit & veg harvesting 
 
 # Games Development BSc (1st)
 ## Dissertation Project
@@ -57,8 +70,10 @@ Unity
 {% include youtubePlayer.html id=page.year2Enterprise %}
 
 ## Year 3
-Portfolio Game
-{% include youtubePlayer.html id=page.youtubeId %}
+Portfolio Game <br/>
+- Animations using Unity Animator 
+- Ememy 
+{% include youtubePlayer.html id=page.year3Porfolio %}
 
 
 
