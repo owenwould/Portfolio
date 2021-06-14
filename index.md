@@ -39,15 +39,16 @@ Advanced Machine Learning
 Advanced Robotics 
 - Netlogo Simulation of heterogeneous robotic solution for Apple Harvesting 
 - One agent for harvesting apples, the other for collecting the apples 
-- Investigated different task and agent allocation methods to see how this effected the difference between the maxiumum and minimum travelled distance for the robotic agents 
+- Investigated different task and agent allocation methods to see how this effected the difference between the maxiumum and minimum travelled distance for the collector robotic agents 
 - Paper review of 12 different papers related to Grasping within the context of robotic fuit & veg harvesting 
 {% include youtubePlayer.html id=page.lincolnMAS %} <br/>
 
 # Games Development BSc (1st)
 ## Dissertation Project
 Title: Incentivise Recycling through the application of Gamification
-- Android App made using Andriod Studio with Java, 
-- Firestore, Firebase Authentication 
+- Android App made using Andriod Studio with Java,
+- Fragments, Recycler views and 
+- Firestore for storing recycled items for each user, Firebase Authentication for users account 
 
 ## Year 1 
 Space Invaders style game, using Unity with C#
