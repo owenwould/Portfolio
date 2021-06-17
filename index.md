@@ -11,7 +11,7 @@ lincolnMAS: t8LUIBfX0Hc
 (Portfolio still working progress)
 
 # Robotics & Autonomous MSc Lincoln
-## Dissertation Project 
+## Dissertation Project (On Going, Finished by mid September)
 Title: One-Class Classification for Anomaly Detection in Strawberries using Adversarially sythesised data <br/>
 Motivation:
 - Supervised learning approaches require large annoated datasets for classifying images 
