@@ -8,7 +8,7 @@ lincolnMAS: t8LUIBfX0Hc
 ---
 
 # About Me
-
+(Portfolio still working progress)
 
 # Robotics & Autonomous MSc Lincoln
 ## Dissertation Project 
