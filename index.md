@@ -29,6 +29,7 @@ Robot Programming:
 - Linux Unbuntu 
 - ROS, Python, Yolov3 (Object detection)
 - Git/Github 
+- [Project Github Repo](https://github.com/owenwould/weeding_assignment)
 {% include youtubePlayer.html id=page.lincolnRobotProgramming %} <br/>
 
 Advanced Machine Learning 
@@ -70,5 +71,6 @@ Portfolio Game <br/>
 - Resource Management, funds slowely build up, units and upgrade have to be managed based upon the enemies strategy
 - Animations using Unity Animator 
 - Polished Game
+- [Project Github Repo](https://github.com/owenwould/PortfolioGame)
 
 {% include youtubePlayer.html id=page.year3Porfolio %} <br/>
